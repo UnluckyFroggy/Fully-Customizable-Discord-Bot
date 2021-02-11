@@ -1,4 +1,5 @@
 # Source Code Pricing:
+**Please DM UnluckyFroggy#5902 on Discord or start an Issue if you would like to purchase any of these source codes.**
 
 **$20 bot includes:** ``ban, clearwarns, kick, mute, purge, purgebot, setnickname, unban, unmute, warn, warnpurge, warns setadminrole, 
 setfarewellchannel, setfarewellmessage, setmemberlog, setmessagedeletelog, setmessageeditlog, setmodchannels, setmodlog, 
