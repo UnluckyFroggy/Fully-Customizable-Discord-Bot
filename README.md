@@ -1,4 +1,4 @@
-# Fully Customizable Discord Bot Source Code Pricing.
+# Source Code Pricing.
 
 **$20 bot includes:** ``ban, clearwarns, kick, mute, purge, purgebot, setnickname, unban, unmute, warn, warnpurge, warns setadminrole, 
 setfarewellchannel, setfarewellmessage, setmemberlog, setmessagedeletelog, setmessageeditlog, setmodchannels, setmodlog, 
